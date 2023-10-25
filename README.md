@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Apple SD Gothic Neo';
@@ -12,7 +12,7 @@ font-family: 'Apple SD Gothic Neo';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -103,4 +103,12 @@ font-face
     src: url('https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Black.woff2') format('woff2'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/AppleSDGothicNeo/AppleSDGothicNeo-Black.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+애플 기본 폰트인 Apple SD 산돌고딕 Neo의 라이선스는 모두 애플이 가지고 있으며 애플 제품 사용자는 비상업, 상업 용도 모두 사용 가능합니다. 애플에서 기본 번들 폰트로 내장되어 있으며, 상업적으로 이용이 가능합니다. 즉, 애플 제품 사용자라면 인쇄, 출판, 영상 등 상업적 이용에 제한없이 사용 가능합니다.
 ```
